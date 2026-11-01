@@ -7,17 +7,21 @@ I am using this repository to document my problem-solving journey, strengthen my
 ---
 
 
-## LeetCode Topics
+## 📌 LeetCode Solutions
 
 ### Arrays
-- [0001 - Two Sum](0001-two-sum/)
-- [0026 - Remove Duplicates from Sorted Array](0026-remove-duplicates/)
-- [0136 - Single Number](0136-single-number/)
+- [0026 - Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/)
 - [0268 - Missing Number](0268-missing-number/)
+- [1480 - Running Sum of 1D Array](1480-running-sum-of-1d-array/)
+- [1929 - Concatenation of Array](1929-concatenation-of-array/)
 
-### Math
+### Mathematics
+- [0007 - Reverse Integer](0007-reverse-integer/)
 - [0009 - Palindrome Number](0009-palindrome-number/)
-- [0029 - Divide Two Integers](0029-divide-two-integers/)
+- [0412 - Fizz Buzz](0412-fizz-buzz/)
+
+### Bit Manipulation
+- [0136 - Single Number](0136-single-number/)
 
 
 ---
